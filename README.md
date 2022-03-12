@@ -1,3 +1,3 @@
 # random-person
 
-[Demo] (https://random-person-oy.netlify.app)
+[Demo](https://random-person-oy.netlify.app)
